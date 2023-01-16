@@ -1,7 +1,7 @@
 # python-Datascience-handbook
 This repository contains the entire Python Data Science Handbook, in the form of (free!) Jupyter notebooks.
 ![image](https://user-images.githubusercontent.com/121869625/212598171-4e3326ee-c777-4fd5-a910-2bffec3a20b9.png)
-How to Use this Book
+# How to Use this Book
 Read the book in its entirety online at https://jakevdp.github.io/PythonDataScienceHandbook/
 
 Run the code using the Jupyter notebooks available in this repository's notebooks directory.
