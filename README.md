@@ -19,7 +19,7 @@ The book introduces the core libraries essential for working with data in Python
 
 See Index.ipynb for an index of the notebooks available to accompany the text.
 
-#Software
+# Software
 The code in the book was tested with Python 3.5, though most (but not all) will also work correctly with Python 2.7 and other older Python versions.
 
 The packages I used to run the code in the book are listed in requirements.txt (Note that some of these exact version numbers may not be available on your platform: you may have to tweak them for your own use). To install the requirements using conda, run the following at the command-line:
@@ -30,9 +30,9 @@ To create a stand-alone environment named PDSH with Python 3.5 and all the requi
 $ conda create -n PDSH python=3.5 --file requirements.txt
 You can read more about using conda environments in the Managing Environments section of the conda documentation.
 
-#License
-##Code
+# License
+## Code
 The code in this repository, including all code samples in the notebooks listed above, is released under the MIT license. Read more at the Open Source Initiative.
 
-#Text
+# Text
 The text content of the book is released under the CC-BY-NC-ND license. Read more at Creative Commons.
